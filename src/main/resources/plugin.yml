@@ -1,0 +1,15 @@
+name: XPTransactions
+version: '${project.version}'
+main: me.alexander.xptransactions.XPTransactions
+api-version: 1.19
+commands:
+  givexp:
+    usage: /givexp <target player> <amount in levels>
+  nightvision:
+  tpe:
+    usage: /tpe <x> <y> <z>
+  send:
+    usage: /send <target player>
+  lotto:
+  convert:
+    usage: /convert <amount in levels>
